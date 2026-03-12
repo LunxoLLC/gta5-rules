@@ -5,7 +5,7 @@ site_name: ONE RPG Rules
 theme:
   name: material
   favicon: images/favicon.png
-  logo: https://onerpg.net/assets/img/logo.png
+  logo: https://onerpg.net/logo
   icon:
     alternate: material/format-letter-case
   features:
