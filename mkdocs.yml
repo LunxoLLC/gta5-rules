@@ -1,11 +1,11 @@
 # Site information
-site_name: Community Name Rules
+site_name: ONE RPG Rules
 
 # Theme elements
 theme:
   name: material
   favicon: images/favicon.png
-  logo: images/favicon.png
+  logo: https://onerpg.net/assets/img/logo.png
   icon:
     alternate: material/format-letter-case
   features:
@@ -60,7 +60,7 @@ markdown_extensions:
 
 # Copyright elements and cookie settings
 copyright: >
-  Copyright &copy; <script>document.write(new Date().getFullYear())</script> COMMUNITY NAME All Rights Reserved
+  Copyright &copy; <script>document.write(new Date().getFullYear())</script> ONE RPG All Rights Reserved
 
 # Custom css
 extra_css:
